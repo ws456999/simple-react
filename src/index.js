@@ -1,7 +1,6 @@
 import React from './react'
 import ReactDOM from './react-dom'
 
-console.log(React, 123)
 class Title extends React.Component {
     constructor( props ) {
         super( props );
